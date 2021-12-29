@@ -73,5 +73,3 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# ZMergeSplit specific
-Resources/Icon128.png
